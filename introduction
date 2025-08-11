@@ -12,4 +12,12 @@ Labelled or Unlabelled data, so Model can then predict futire behavio / Predicti
 
 DATA - Recognize Patterns - Make Predictions
 
+Features- i/p variables
+
+Weights- representssignificance of each feature
+
+Labels- thing we are trying yo predict.
+
+
+
 
