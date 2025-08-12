@@ -22,6 +22,11 @@ use cases:
 
 personalization, recommendation systems, predictive maintainance, demand forecasting etc
 
+ML Types
+- Supervised learning- labeled data (ex- rxns is frud or not a fraud), classification, regression (stock or house price)
+- Unseupervised Learning- Unlabeled data.
+- Reinforcement Learning- self driving cars
+
 
 
 
