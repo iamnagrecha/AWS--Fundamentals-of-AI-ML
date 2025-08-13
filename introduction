@@ -37,6 +37,8 @@ ML development lifecycle
 - Model training
 - Model Evaluation
 - Model tuning- hyperparameter tuning
+- Model Deployment
+- Model monitoring
 
 
 
