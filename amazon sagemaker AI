@@ -2,3 +2,5 @@ Amazon sagemaker AI
 
 Fully managed infrastructure, tools & work flows
 - data prep, train, build, deploy
+
+helps build data generation & labeling
