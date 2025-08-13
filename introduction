@@ -35,6 +35,9 @@ ML development lifecycle
 - For Fraud detection
 - data collection-> pre-processing
 - Model training
+- Model Evaluation
+- Model tuning- hyperparameter tuning
+
 
 
 
