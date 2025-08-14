@@ -9,8 +9,15 @@ amazon sagemaker groundtruth- humans will lable the data, whether contarctors or
 
 Amazon sagemaker Inferencing- to determine if a txn is fraud or not.
 
-RT Inference: 
+1) RT Inference: 
 
 -Live predictions
 -low latency
 -consistent performance
+
+2) Batch Transform
+
+3) Asynchronous Inference- near RT- need to waits hour or so.
+
+
+
