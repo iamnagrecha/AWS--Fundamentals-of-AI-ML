@@ -19,5 +19,7 @@ Amazon sagemaker Inferencing- to determine if a txn is fraud or not.
 
 3) Asynchronous Inference- near RT- need to waits hour or so.
 
+4) Serverless Inference: Intermediate traffic
+
 
 
