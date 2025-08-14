@@ -6,3 +6,11 @@ Fully managed infrastructure, tools & work flows
 helps build data generation & labeling
 
 amazon sagemaker groundtruth- humans will lable the data, whether contarctors or internal workers
+
+Amazon sagemaker Inferencing- to determine if a txn is fraud or not.
+
+RT Inference: 
+
+-Live predictions
+-low latency
+-consistent performance
