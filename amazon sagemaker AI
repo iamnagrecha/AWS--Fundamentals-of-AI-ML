@@ -5,3 +5,4 @@ Fully managed infrastructure, tools & work flows
 
 helps build data generation & labeling
 
+amazon sagemaker groundtruth- humans will lable the data, whether contarctors or internal workers
