@@ -10,6 +10,10 @@ AI->ML->DL->GenAI
 GenAI- genrates new content like images or videos
 -> use cases- text generation, text summarization, text extraction, create music or videos
 
-Large language models
+Large language models (LLM)
 - trained on large corpus of data
 - predicts the probability of the next word
+
+#Transformer Architecture
+
+Inner workings of LLMs
