@@ -21,3 +21,11 @@ Inner workings of LLMs
 Decoder:
 
 The students opened their - _______, pick up the highest probable word
+
+Gen AI Limitations:
+
+1) Hallucinations:- trained on fabricated content with no basis on its training data.
+2) Inaccuracy- based on outdated data
+3) Interpretabiliry: challenging to understand how a decision was made.
+4) Nondeterminism
+5) Verbose/Chatty
