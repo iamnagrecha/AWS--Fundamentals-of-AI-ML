@@ -28,4 +28,9 @@ Gen AI Limitations:
 2) Inaccuracy- based on outdated data
 3) Interpretabiliry: challenging to understand how a decision was made.
 4) Nondeterminism
-5) Verbose/Chatty
+5) Verbose/Chatty- over generate content
+
+Foundational Model Types
+- Text to Text
+- Text to embeddings
+- Multimodal (image + text)
