@@ -1,11 +1,12 @@
-Foundation models (FMs)
+ Foundation models (FMs)
 prompt engineering
 amazon bedrock
 inference parameters
 
 
 Customizing FMs
-- prompt engineering
+- prompt engineering- ex- create bulleted list
+- chain of thought prompting- what's the 5th letter in Abhishek
 - RAG (retrivel augmented generation)
 - Fine tuning
 - continued pretraining
