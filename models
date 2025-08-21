@@ -14,3 +14,5 @@ Customizing FMs
 Vector datastores
 
 human text to vector embeddings
+
+Fine tuning- changing certain internal parameters, or training the model based on updated labelled data so predictions are better.
