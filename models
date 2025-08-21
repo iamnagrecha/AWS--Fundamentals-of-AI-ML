@@ -10,3 +10,7 @@ Customizing FMs
 - RAG (retrival augmented generation)
 - Fine tuning
 - continued pretraining.
+
+Vector datastores
+
+human text to vector embeddings
