@@ -7,7 +7,7 @@ inference parameters
 Customizing FMs
 - prompt engineering- ex- create bulleted list
 - chain of thought prompting- what's the 5th letter in Abhishek
-- RAG (retrival augmented generation)
+- RAG (retrival augmented generation).
 - Fine tuning
 - continued pretraining.
 
